@@ -1,0 +1,18 @@
+.no-item {
+    display: none;
+}
+
+
+
+.alertBox {
+    position: fixed;
+    z-index: 3;
+    top: 5px;
+    left: 50%;
+    transform: translateX(-50%);
+    display: none;
+}
+
+.number-item {
+    font-size: 16px;
+}
